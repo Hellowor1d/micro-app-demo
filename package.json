@@ -1,0 +1,19 @@
+{
+  "name": "micro-app-demo",
+  "version": "1.0.0",
+  "description": "test for micro app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hellowor1d/micro-app-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hellowor1d/micro-app-demo/issues"
+  },
+  "homepage": "https://github.com/Hellowor1d/micro-app-demo#readme"
+}
