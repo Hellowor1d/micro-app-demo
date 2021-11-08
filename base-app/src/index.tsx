@@ -5,7 +5,11 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import microApp from '@micro-zoe/micro-app'
 
-microApp.start();
+microApp.start(
+	{
+		inline: true,
+	}
+);
 ReactDOM.render(
   <React.StrictMode>
     <App />
